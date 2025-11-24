@@ -1,0 +1,151 @@
+Printed
+4
+Roll No.
+300.441.226 ( |
+C1095120022)
+B Tech: (Fifth Semester) Examination
+Nov.-Dec. 2024
+CSE (Al and ML)
+INTRODUCTION to MACHINE LEARNING
+1" '
+4 .
+Time Allowed
+Three hours
+ [` .
+
+. ' .
+'
+ .
+ .
+Maximum Marks
+100
+4.
+Minimum Pass Marks
+35
+
+t |a
+ .
+.
+Note : Attempt
+all   questions:
+Part  (a) from
+each
+question is compulsory and carries
+4 marks:
+Attempt any two parts from (6),
+(c) and (d)
+of each question and each carry 8 marks.
+Unit-[
+(a) Whal do you understand by machine learning? How
+do machine Iearn?
+C1095120022)
+FTO
+vivo Y21T
+Jyoti
+Pages
+12 |
+Diflerentiate between supervised & unsupervised
+learning with example
+8
+What are the
+applications of machine learning?
+8
+(d) Distinguish between training data & testing data.
+8
+4
+Unit-II
+2
+(a)
+What is regression? List down types of regression.
+4
+(b) Explain simple linear regression, how does it work?
+8
+What
+are the
+assumptions of the ordinary least
+squares method for linear regression.
+8
+(d) Differentiate between linear regression and logistic
+regression.
+8
+Unit-M
+5.
+3.
+(a) Explain why do we use multiple regression?
+(b) What are the steps to estimate ordinary least squares
+for multiple linear regression,
+8
+(c
+How t0 calculate coeflicient of multiple determination
+squared)
+8
+C109512(022)
+vivo Y21T
+S_Jyoti
+13 |
+vised
+(d) Comparison between linear regression and multiple
+8
+regression?
+8
+ng?
+8
+Unit-IV
+data 
+8
+4
+(a)
+What
+is   classification?
+List
+out
+classification
+techniques.
+(b) Explain k-nearest neighbor algorithm with example.
+8
+ssion.
+(c) Explain
+Naive   Bayesian   classifier
+with
+suitable
+work?
+8
+example.
+8
+least
+(d)
+Write short note
+8
+8
+Decision Tree
+gistic
+()   Support Vector Machine
+8
+Unit-V
+5
+(a)
+What do you mean by clustering? List out some
+clustering methods
+ares
+(b) Explain hierarchical clustering method with suitable
+example.
+8
+ation
+8
+C1095120022)
+PTO
+vivo Y21T
+~_Jyoti_
+
+3
+on
+14 |
+Explain Euclidean distance measure method with
+suitable example:
+(d)
+Explain k-means and DBSCAN clustering with
+example:
+770]
+C109512(0224)
+vivo Y21T
+~Jyoti

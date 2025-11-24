@@ -1,0 +1,176 @@
+Printed Pages
+4
+Roll No.
+300.2419270||
+e
+Siohote
+
+C109511(022)
+B
+Tech. (Fifth Semester) Examination,
+Nov-Dec: 2024
+(Computer Science and
+Branch)
+ARTIFICIAL INTELLIGENCE
+2 `
+Time Allowed
+Three hours
+11 . .
+Maximum Marks
+100
+. .'
+Minimnum Pass Marks : 35
+ . ^
+Note : Attempt
+questions:
+Part (a) of each
+question is compulsory and carries
+4 marks
+each:
+Attempt
+any
+two
+parts from (6),
+(c)
+and (d) and carries 8 marks each:
+^".'
+Unit-[
+1.
+(a) List the characteristics of an Intelligent Agent.
+(b) Explain the evolution of Artificial Intelligence with its
+8
+advantages:
+PTO
+C1095110022)
+vivo Y21T
+~Jyoti
+Engg:
+^ .
+all
+2
+(c) Give
+the   list
+of
+application
+areas
+of Artificial
+Intelligence:
+8
+(d)
+What do you mean by Intelligent Agent? Explain
+different types of Intelligent Agent.
+8
+Unit-II
+2.
+(a) Define Heuristic function.
+(b) Explain
+Search
+in
+Artificial   Intelligence.
+Write
+difference between informed and uninformed search
+with
+example.
+8
+(c) Illustrate the concept of constraint-satisfaction Al
+technique to solve the following crypt arithmetic
+problem
+8
+CROSS
+ROADS
+DANGER
+(d) Explain Hill climbing search with an example.
+What
+are the
+problems   associated
+with
+Hill
+climbing
+search? What are the remedies for these
+problems?
+8
+Unit-III
+37
+(a)
+What do-You understand bywell-formed formula?
+vivo Y21T
+C109511(22)
+~Jyoti
+[3 |
+(6)
+What is
+logic and how knowledge is
+represented using propositional logic?
+8
+Convert the following set of sentences
+8
+Marcus was a
+man_
+Marcus was a Pompeian.
+(iii)
+All Pompeian were Romans.
+(iv)
+Caesar was a ruler:
+All Romans
+were either
+loyalto
+Caesar
+or
+hated him.
+(vi)
+Everyone is loyal to someone.
+(vi)
+People only try to assassinate rulers they are
+not loyal to_
+(viii)
+Marcus tried to assassinate Caesar:
+Translate the above sentences in wff and answer
+Resolution: "Did Marcus hate Caesar2"
+using
+the
+of a statement and also
+(d) Explain
+8
+the
+equivalence laws for the statements.
+Unit-IV
+4
+(a)
+What is Knowledge
+PTO
+C109511(022)
+vivo Y21T
+4_Jyoti
+propositional
+explain
+properties
+agent?
+14 |
+(6)
+What are the
+properties of aknowledge represen-
+tation  system?
+Discuss
+various knowledge
+representation techniques.
+8
+Discuss conceptual dependency and explain how
+information can be represented
+conceptual
+dependency:
+(d) What are semantic networks and its classification?
+8
+Unit-V
+5.
+(a) Explain about components of planning systems.
+(6) What do you understand by planning? Explain about
+totally-ordered and partially-ordered planning:
+8
+(c) Explain various approaches of planning:
+8
+(d) Explain block world problem with suitable example.
+8
+vivooy21T
+C109511(022)
+~_Jyoti
+using

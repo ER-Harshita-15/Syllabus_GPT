@@ -1,0 +1,152 @@
+Printed Pages
+4
+Roll No,
+3.00.24432201(
+C109531(022)
+B. Tech (Fifth Semester) Examination Nov-Dec: 2024
+
+(New Scheme)
+(AI, AIML and DS) (BT31O9, BT3IIO, BT3413)
+(Computer Science & Engg: Branch)
+INTERNET of THINGS (IOT)
+Time Allowed
+Three hours
+Maximum Marks
+100
+Minimum Pass Marks
+35
+Note : Attempt all questions:
+Part (a) from ` each
+question
+is compulsory and
+carry
+4
+marks and attempt
+two of the
+remaining
+(6), (c) and (d) and carries equal 8 marks:
+Unit-[
+1.
+(a) Define IOT with their characteristics.
+8109531(022)
+FTO
+vivo Y21T
+Jyoti
+equal
+any
+2
+What are the
+milestones in the evolution ofthe
+Internet of Things (loT)?
+What are the main components of the loT World
+Forum (loTWF) standardized architecture?
+(d) Differentiate
+between
+and
+Cloud
+computing in the context of ToT:
+Unit-JI
+2
+(a) Define sensors and actuators.
+(6)
+What are the
+unique characteristics of LoRaWAN
+in IoT
+apptications? Explain in detail.
+(c) Explain the rote of IP versions in IoT and how
+enable connectivity in constrained environments.
+(d) Compare and contrast CoAP and MQTT in terms
+of
+performance and use cases.
+Unit-M
+3.
+(a) What is a
+System on
+(SoC)?
+vivo Y21T
+C109531(022)
+~Jyoti
+key
+Edge,
+Fog,
+they
+Chip
+I8 |
+(6)
+What
+are the fundamental steps involved in the
+design methodology of loT systems; and how do
+contribute to the development process?
+Compare the features and typical
+applications
+of
+Raspberry Pi and Arduino boards as IoT hardware
+platforms. What are the advantages and limitations
+of each?
+Describe the
+role
+of
+a
+microcontroller
+in
+an
+(d)
+How does it differ
+embedded computing
+microprocessor in terms of functionality and
+from a
+Unit-IV
+4
+(a) What is data acquiring?
+Differentiate between structured and unstructured
+data with example.
+the IoT data
+analytics challenges? How to
+What are
+them? Discuss in detail .
+overcome
+(d) Write a short notes on
+Data in rest Vs Data in motion
+PTO
+6109581(022)
+vivo Y21T
+~_Jyoti
+they
+system.
+application?
+14 |
+Everything as a service
+Unit-V
+5
+Enlist lot loT
+applications in all sectors:
+What are the
+components of an loT-based air
+pollution monitoring
+Discuss sensors used
+for
+'pollution measurement detail
+How
+can
+IoT-based
+street   lighting
+be
+integrated with other smart
+infrastructure? Write
+case study for smart city street light
+and
+monitoring
+(d) Write a short notes with context to loT
+Supply chain and customer monitoring
+Agriculture
+Green House Control
+vivo Y21T 0
+C109531(022)
+S_Jyoti
+key
+system?
+systems
+city
+control
+system:
+system

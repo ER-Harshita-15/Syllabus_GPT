@@ -1,0 +1,226 @@
+Printed Pages
+5+3-8
+Roll No.
+Z2L2LL122 0 m
+C109513(022)
+B. Tech: (Fifth Semester) Examination,
+Nov-Dec. 2024
+[CS &
+(AI & ML)
+Branch]
+THEORY of COMPUTATION
+Time Allowed
+Three hours
+Maximum Marks
+100
+Minimum Pass Marks
+35
+2`
+35 /
+Note
+First part of each
+unit
+is  compulsory
+containing
+4
+marks   Attempt any
+two from
+(b),
+(c)
+and
+(d)
+carries
+8 marks
+each.
+Schematic diagrams and steps must be shown
+whenever necessary:
+Unit-I
+1.
+(a) Define and
+the term two way finite automata 
+4
+(6) Minimize the following DFA by using my hill Nerode
+theorem ;
+8
+C1095180022)
+PTO
+vivo Y21T
+~_Jyoti_
+Engg:
+Engg:
+explain
+State/ >
+b
+40
+91
+44
+2.
+(a) Define
+42
+43
+propert
+47
+48
+98
+47
+(6) Conste
+94
+95
+46
+the re
+47
+48
+(c) Using
+97
+48
+lang=
+97
+47
+97
+98
+98
+48
+(c)
+Compare NFA and DFA with suitable example.
+8
+(d) Exp
+(d) Consider the Mealy machine describe by the
+following transition table, construct the equivalent
+Moore machine.
+8
+Next State
+PIS
+q
+9 = 1
+3 
+(a)
+State
+Output
+State
+Output
+41
+43
+92'
+42
+91
+44
+43
+92
+91
+9
+44
+43
+C1095130022)
+vivo Y21T
+a_Jyoti
+13 |
+Unit-II
+2.
+(a) Define Regular Expression and write their different
+4
+properties.
+~ ^ "9`
+Construct a DFA with reduced state
+equivalent to
+the regular expression i.e. 10 + (0 + 11) 0 + 1.
+8
+(c) Using pumping lemma to prove that the following
+langauge is not regular:
+.
+ .' ^0.`
+L={a"b"+!/nz0}
+:{
+8
+(d) Explain the following
+< ' .
+'7
+'"
+8
+Regular sets and Regular grammar
+Decision algorithm for
+J
+Sel
+b+ and
+.
+. `
+Unit-MII
+4 :.
+3.
+(a) Define context free grammar and write different
+properties of context free language:
+(b) Consider the
+context
+free   grammar
+G
+where
+S - AB,
+Aa,
+B+ Clb, C D,
+D+E,
+E ~ a. Eliminate all unit
+production.
+C1095130022)
+MTO
+vivo Y21T
+3a_Jyoti
+Ire
+ed ulax
+4
+(c) Convert CGF to CNF from which is given below
+S + bAc | aB
+AvbAAI
+aS |a, B -> aBB | bS | b
+8
+5.
+(d) Write notes on
+8
+Ambiguity in grammar
+Role and application areas of grammars
+1.
+3 :.: `
+Unit-IV
+4.
+(a) Define Push down
+Automata  and NPDA
+with
+4
+example.
+(b) Design a PDA which accepts a language.
+8
+L={a"b"|n2l}
+(c) Design Turing Machine M that recognizes that
+recognize the language.
+8
+L={a"6"c"[n21}
+.
+(d) Write short notes on
+8
+Church'$ Hypothesis
+problem of Turing Machine
+vivo Y21T
+C109513(022)
+KJyoti
+Halting
+15 |
+Unit-V
+5.
+(a)
+What do you mean by Space and time complexity?
+4
+Explain.
+(6) Explain recursive and  recursive enumerable
+8
+language with example.
+What is
+Computation? Explain Turing model for
+8
+computation:
+8
+(d) Write notes on
+Turing
+computable functions
+Partial recursive function
+1020]
+C1095130022)
+vivo Y21T
+~Jyoti

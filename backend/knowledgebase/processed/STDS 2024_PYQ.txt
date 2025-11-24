@@ -1,0 +1,143 @@
+Printed
+4
+Roll No
+22.0..2.113260 1
+C117514(022)
+B: Tech: (Fifth Semester) Examination;
+Nov-Dec 2024
+(AICTE Scheme)
+(CSE Branch)
+STATISTICALTHINKING for DATA SCIENCE
+Time Allowed : Three hours
+Maximum Marks : 100
+Minimum Pass Marks : 35
+Note : Attempt all questions
+Part (a)
+of each
+question is compulsory and carries 4 marks:
+Attempt any two
+from (6), (c) and (d)
+which carry 8 marks each
+Unit-I
+Define Data Science and explain its importance in
+1.
+(a)
+4
+modern industries
+PTO
+C1175140022)
+vivo Y21T
+Pages
+parts
+[2 ]
+[3 ]
+Unit-MII
+(6)
+Explain the difference between supervised and
+unsupervised   learning;  Provide   examples of
+3
+(a)
+Define Matrix Computations and explain their role
+algorithms used in both:
+8
+in data science
+applications.
+Discuss the role of statistics and probability in
+Discuss the use of Scholastic Models in
+predictive
+Machine Leaming with suitable examples
+8
+analytics and their importance in experimentation
+8
+and evaluation
+(d)
+Explain the concept ofData Warehousing and its
+importance in suppOrting analytical processes
+8
+Explain the significance of clustering in Predictive
+Analytics and Segmentation Provide examples of
+Unit-MI
+clustering algorithms and their applications
+8
+2.
+(a)
+Define
+Data
+Structures   and
+their
+the role of Project Deployment Tools in
+d)
+Describe
+importance in designing eficient algorithms
+data science workflows Discuss their importance
+Discuss the role ofData Visualization in Business
+in ensuring successful project implementation
+8
+(6)
+Intelligence Provide examples oftools commonly
+8
+Unit-IV
+used for visualization
+4.
+(a)
+Define Statistical Analysis and explain its meaning
+Explain the significance of Optimization Techniques
+and importance in decision-making
+in  Scientific  Computing:
+Discuss how they
+real-world problems
+8
+Discuss the different types of Statistical Analysis
+contribute to solving
+Provide examples of where each type
+can be
+Describe the steps involved in Exploratory Data
+8
+Analysis (EDA) and its importance in data-driven
+8
+decision-making:
+C117514(022)
+Vi
+C117514(022)
+explain
+applied 
+[4 ]
+Outline the process of conducting Statistical
+Analysis.
+Explain
+how this process
+ensures
+accuracy and reliability in data interpretation
+8
+(d)
+Describe the benefits of Statistical Analysis in
+solving real-world problems. Discuss commonly
+used methods and tools for performing statistical
+8
+analysis
+Unit-V
+5.
+(a)
+Explain the Statistical Foundations necessary for
+Data Science Highlight their role in analyzing data
+effectively:
+Discuss key applications of Statistical Analysis in
+Data Science. Provide
+examples of real-world
+scenarios where statistical techniques are utilized
+8
+Present
+a
+case
+study   showcasing the
+use of
+Statistical Analysis to solve a specific problem
+Explain the steps and statistical methods used in
+the study:
+(d)
+Discuss the importance of Statistical Analysis in
+Data Science workflows including its limitations
+and areas for improvement.
+8
+100]
+C1175140022)
