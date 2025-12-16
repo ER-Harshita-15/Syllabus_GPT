@@ -72,7 +72,7 @@ difference between informed and uninformed search
 with
 example.
 8
-(c) Illustrate the concept of constraint-satisfaction Al
+(c) Illustrate the concept of constraint-satisfaction AI
 technique to solve the following crypt arithmetic
 problem
 8
@@ -92,7 +92,7 @@ problems?
 Unit-III
 37
 (a)
-What do-You understand bywell-formed formula?
+What do You understand bywell-formed formula?
 vivo Y21T
 C109511(22)
 ~Jyoti

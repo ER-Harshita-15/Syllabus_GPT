@@ -54778,8 +54778,8 @@ level cost, 382
 leveled off (planning graph), 381 
 Levesque, H.  J.,  154,  277, 434, 471, 
 1088  
-1080, 
 1074 
+1080, 
 1069,  
 1080 
 1066,  
